@@ -1,4 +1,4 @@
-# PixelMaster: Image Annotation Tool
+## PixelMaster: Image Annotation Tool
 A user-friendly web-based tool to streamline image annotation and labeling processes for the University of Canberra's Human-Centered Technology Research team.
 
 ### Preview
