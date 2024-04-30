@@ -18,4 +18,4 @@ A user-friendly web-based tool to streamline image annotation and labeling proce
 `streamlit run Home.py`
 
 ## Poster
-![Frontend Preview](Poster.pdf)
+![Frontend Preview](poster.png)
