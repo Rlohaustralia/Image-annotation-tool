@@ -16,3 +16,6 @@ A user-friendly web-based tool to streamline image annotation and labeling proce
  
 5. Run the following command to start the application
 `streamlit run Home.py`
+
+## Poster
+![Frontend Preview](preview_Poster.pdf)
